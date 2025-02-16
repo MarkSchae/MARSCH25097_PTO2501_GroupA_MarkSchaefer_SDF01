@@ -54,27 +54,28 @@
 - ![Sqlite](https://img.shields.io/badge/-Sqlite-black?style=flat-circle&logo=sqlite)
 
 ---
-
+<!-- Added my USP -->
 ## 🏆 Soft Skills
 
-- 🤝 Teamwork & Collaboration
-- 📢 Communication Skills
-- 🎯 Problem-Solving
-- 🚀 Adaptability
+- 🎯 Proactive problem-solving
+- 🚀 Adaptable in high pressure environments
+- 🤝 Teamwork & collaboration
+- 📢 Communication skills
+- :thinking: Critical thinking
+- :teacher: Coaching and mentoring
 
 ---
 
-## 📌 Projects
+## :construction: Projects <!-- Changed the discription -->
 
-Here are some of my milestone projects (to be updated as I progress!):
+Here are some of my milestone projects (to be updated as I progress):
 
 ### **1️⃣ First GitHub Project**
 
-🔹 **Description:** My first project using GitHub to manage files.  
+🔹 **Description:** Creating a repo, editing the repo, and pushing the edits to GitHub to learn about GitHub's version control.   
 🔹 **Status:** ✅ Completed
 
-### **2️⃣ Personal Portfolio** _(Coming Soon!)_
-
+### **2️⃣ Personal Portfolio** (Coming Soon)
 🔹 **Description:** A simple portfolio to showcase my projects.  
 🔹 **Technologies:** HTML, CSS
 🔹 **Status:** ⏳ In Progress
