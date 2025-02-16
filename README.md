@@ -44,7 +44,7 @@
 - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-circle&logo=postgresql)
 
 
-**Past Technologies:**
+**Technologies I have experimented with:**
 - ![Python](https://img.shields.io/badge/-Python-black?style=flat-circle&logo=python)
 
 - ![Django](https://img.shields.io/badge/-Django-black?style=flat-circle&logo=django)
