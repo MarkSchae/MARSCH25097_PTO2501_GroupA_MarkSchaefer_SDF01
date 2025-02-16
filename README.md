@@ -18,6 +18,10 @@
 ---
 
 ## 🛠️ Tech Stack
+<!-- Photo source: https://giphy.com/gifs/90s-80s-illustration-l0HlNaQ6gWfllcjDO Code source: https://medium.com/geekculture/displaying-visuals-with-markdown-c39f2495e146 -->
+<div style="float: right; margin-left: 10px;"> <!-- Used chat gpt to get the float styling -->
+  <img height="150" width="300" alt="computer" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif"><br>
+</div>
 
 **Currently learning:**
 
