@@ -84,26 +84,30 @@ Here are some of my milestone projects (to be updated as I progress):
 
 ## 📚 Learning Goals
 
-- 🚀 Get comfortable using Git and GitHub
-- 🎨 Learn HTML, CSS, and JavaScript
-- 💡 Build real-world projects and collaborate with others
+- 🚀 Get comfortable using Git and GitHub.
+- 🎨 Build proficiency in HTML, CSS, and JavaScript.
+- :computer: Futher my understanding of real-time communications between the client and server.
+- :sparkles: Experiment with PowerBi for data analytics.
+- :running: Learn to use the frameworks Node.js and React.
+- :brain: Build proficiency in Django and Python.
+- :beer: Publish my first app!
 
 ---
 
 ## 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-📧 Email: [youremail@example.com](mailto:youremail@example.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/MarkSchae)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-schaefer-b5b35099/)  
+📧 Email: [Mark Schaefer](mcschaefer26@gmail.com)
 
 ---
 
 ## 🚀 Fun Fact
 
-💡 I love learning new things and can't wait to build my first website!
+💡 I lived in the USA for 8 months in 2022-2023.
 
 ---
 
 ## 🏆 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarkSchae&show_icons=true&theme=radical)
