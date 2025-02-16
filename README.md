@@ -8,12 +8,13 @@
 
 ---
 
-## 🎯 About Me
+## 🎯 About Me <!-- Personalized this information -->
 
-- 💡 I'm currently learning **GitHub and version control** before diving into coding.
+- :smile: I'm currently enrolled in a bootcamp with CodeSpace Academy, I am learning **GitHub and version control** before diving into coding.
 - 🎓 Soon, I'll be exploring **HTML, CSS, and JavaScript**!
-- 🤖 I love problem-solving and working on creative projects.
-- 🔥 Looking forward to building my first real-world application.
+- :book: Researching new topics to help me find a solution to a problem can occupy my time for hours.
+- 🔥 I have previous experience building projects in Django using Python and JS.
+- :phone: I am very intersted in learning more about websockets and real time communications between the client and the server.
 
 ---
 
