@@ -1,20 +1,21 @@
 # [SDF01] Challenge: Introduction to Git version control :milky_way:
 
-# :wink: Hi, I'm Mark :shark: Schaefer <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="50">
+# :wink: Hi, I'm Mark Schaefer <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="50">
 
 
 <!-- Full stack developer(of pancakes lol) -->
-:shell: Beginner :pancakes: Software Developer | :ship: Cannot wait to spend hours solving complex coding problems :bug::mechanic:
+:pancakes: Software Developer in Training | :eyes: Cannot wait to spend hours solving complex coding problems :bug::mechanic:
 
 ---
 
 ## 🎯 About Me <!-- Personalized this information -->
 
-- :smile: I'm currently enrolled in a bootcamp with CodeSpace Academy, I am learning **GitHub and version control** before diving into coding.
+- :brain: I'm enrolled in a bootcamp with CodeSpace Academy. I'm learning **GitHub and version control** before diving into coding.
 - 🎓 Soon, I'll be exploring **HTML, CSS, and JavaScript**!
-- :book: Researching new topics to help me find a solution to a problem can occupy my time for hours.
-- 🔥 I have previous experience building projects in Django using Python and JS.
-- :phone: I am very intersted in learning more about websockets and real time communications between the client and the server.
+- :book: I enjoy researching and learning about new topics.
+- 🔥 I have built practice projects, such as a commerce website, in Django using Python and JS.
+- :phone: I want to learn more about websockets and real time communications between the client and the server.
+- :baseball: I have had a whole career in sports coaching eliciting the best performance from my teams. I am keen to apply these soft skills in the tech industry.
 
 ---
 
@@ -24,7 +25,7 @@
   <img height="150" width="300" alt="computer" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif"><br>
 </div>
 
-**Currently learning:**
+**Currently Learning:**
 
 - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
