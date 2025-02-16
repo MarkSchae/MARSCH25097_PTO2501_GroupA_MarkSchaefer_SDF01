@@ -31,8 +31,25 @@
 
 **Future Technologies:**
 
-- ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-circle&logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-circle&logo=css3), ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-circle&logo=javascript)
+- ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-circle&logo=html5&logoColor=white)
+
+- ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-circle&logo=css3)
+
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-circle&logo=javascript)
+
 - ![React](https://img.shields.io/badge/-React-black?style=flat-circle&logo=react)
+
+- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-circle&logo=postgresql)
+
+
+**Past Technologies:**
+- ![Python](https://img.shields.io/badge/-Python-black?style=flat-circle&logo=python)
+
+- ![Django](https://img.shields.io/badge/-Django-black?style=flat-circle&logo=django)
+
+- ![C](https://img.shields.io/badge/-C-black?style=flat-circle&logo=c)
+
+- ![Sqlite](https://img.shields.io/badge/-Sqlite-black?style=flat-circle&logo=sqlite)
 
 ---
 
