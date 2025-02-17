@@ -20,13 +20,13 @@ A well-structured, professional-looking repository that clearly represents **you
 
 Before submitting your project, ensure the following:  
 
-- [ ] Your repository **exists under your GitHub account** and contains your updates.  
-- [ ] The README file **introduces you properly** and is free of placeholders.  
-- [ ] **Repo Name Follows the Correct Format** (Includes student number, group, and coach name)  
-- [ ] **Challenge Title is Removed** (Replace with a personalized title)  
-- [ ] **README is Updated** (No placeholders; it reflects your learning journey)  
-- [ ] **At Least One Commit & Push is Made** (Your changes are saved on GitHub)  
-- [ ] **Repo is Public & Accessible** (Ensure the link works before submission)   
+:white_check_mark: Your repository **exists under your GitHub account** and contains your updates.  
+:white_check_mark:The README file **introduces you properly** and is free of placeholders.  
+:white_check_mark:**Repo Name Follows the Correct Format** (Includes student number, group, and coach name)  
+:white_check_mark:**Challenge Title is Removed** (Replace with a personalized title)  
+:white_check_mark:**README is Updated** (No placeholders; it reflects your learning journey)  
+:white_check_mark:**At Least One Commit & Push is Made** (Your changes are saved on GitHub)  
+:white_check_mark:**Repo is Public & Accessible** (Ensure the link works before submission)   
 
 Double-check everything before submitting—**no second chances for first impressions!** 🚀
 
@@ -34,7 +34,7 @@ Double-check everything before submitting—**no second chances for first impres
 
 - Make sure to rename your repo with your details ⚠️ Here is an example repo name: `Module_02_StudentNo_Classcode_Group_Name-Surname_SDF01`.  ⚠️
 
-- [ ] Submit your GitHub Repo link through the LMS. You will find this in the LMS [**[Projects](https://learn.codespace.co.za/projects)**] tab.
+:white_check_mark:Submit your GitHub Repo link through the LMS. You will find this in the LMS [**[Projects](https://learn.codespace.co.za/projects)**] tab.
 
 ---
 
