@@ -1,4 +1,4 @@
-# [SDF01] Challenge: Introduction to Git version control :milky_way:
+# Introducing Me
 
 # :wink: Hi, I'm Mark Schaefer <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="50">
 
