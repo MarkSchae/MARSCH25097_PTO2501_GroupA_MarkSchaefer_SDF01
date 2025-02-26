@@ -98,7 +98,7 @@ Here are some of my milestone projects (to be updated as I progress):
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/MarkSchae)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-schaefer-b5b35099/)  
-📧 Email: [Mark Schaefer](mcschaefer26@gmail.com)
+📧 Email: [Mark Schaefer](mailto:mcschaefer26@gmail.com)
 
 ---
 
